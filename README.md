@@ -46,7 +46,6 @@ A smart and accessible guide for diabetes management, built with a focus on prac
 ## 📬 Connect with Me
 
 - 💼 [Medium Blog](https://medium.com/@suleymansade09)
-- 🐦 [Twitter](https://twitter.com/your_twitter_username) *(if you want to add)*
 
 ---
 
