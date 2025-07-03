@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-1E2A38?style=flat-square&logo=python&logoColor=gold" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Preferred%20Colors-Dark%20Blue%20%26%20Gold-1E2A38?style=flat-square" alt="Color Badge" />
 </p>
 
 <h1 align="center" style="color:#1E2A38;">
