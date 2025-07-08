@@ -26,7 +26,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [DiaGuide](https://github.com/SuleymanSade/DiaGuide) | A diabetes risk prediction app built using Python, Streamlit, and machine learning. Created in under 48 hours during a solo hackathon. Deployed on Streamlit Cloud with a clean UI. | Python, Streamlit, scikit-learn |
-| [FRC Scouting App](https://github.com/Lakemonsters2635/FRC2025) | Match data collector for scouting teams, built with React Native | React Native, Expo, QR |
+| [FRC Scouting App](https://github.com/2635Lakemonsters/scouting-app-2635) | Match data collector for scouting teams, built with React Native | React Native, Expo, QR |
 | [Stock Market Simulator](#) *(Coming Soon)* | Python library to simulate trading strategies and test investing logic | Python, OOP, NumPy |
 
 ---
